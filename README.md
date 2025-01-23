@@ -4,6 +4,14 @@ This document provides instructions to run the Jupyter Notebook file and ensure 
 
 ---
 
+## Project Report
+
+For a comprehensive explanation of the methods, results, and findings, please refer to the full project report:  
+**[A Comparative Analysis of Machine Learning Models for Alzheimer’s Disease Screening](./A%20Comparative%20Analysis%20of%20Machine%20Learning%20Models%20for%20Alzheimer%E2%80%99s%20Disease%20Screening.pdf)**
+
+
+---
+
 ## Project Notebooks
 
 The project is divided into **four Jupyter notebooks**, each focusing on a specific aspect of the machine learning pipeline:
@@ -21,13 +29,6 @@ The project is divided into **four Jupyter notebooks**, each focusing on a speci
    - This notebook includes **additional experiments**, such as **gender-based model evaluation** and **feature-based model performance testing**, providing deeper insights into the dataset's behavior.
 
 Each notebook should be executed sequentially to ensure the correct flow of the pipeline, leading from **data preprocessing to model selection and further analysis**.
-
----
-
-## Project Report
-
-For a comprehensive explanation of the methods, results, and findings, please refer to the full project report:  
-**[A Comparative Analysis of Machine Learning Models for Alzheimer’s Disease Screening](./A%20Comparative%20Analysis%20of%20Machine%20Learning%20Models%20for%20Alzheimer%E2%80%99s%20Disease%20Screening.pdf)**
 
 ---
 
